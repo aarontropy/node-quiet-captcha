@@ -1,0 +1,21 @@
+{
+  "name": "node-quiet-captcha",
+  "version": "0.0.1",
+  "description": "Unobtrusive CAPTCHA library for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "contact",
+    "form",
+    "security",
+    "captcha"
+  ],
+  "author": "Aaron W. Johnson",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^1.4.5",
+    "lodash": "^2.4.1"
+  }
+}
